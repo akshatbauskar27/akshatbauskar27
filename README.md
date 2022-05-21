@@ -23,13 +23,14 @@
 
 
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+ <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Akshat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=akshatbauskar27&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
-
- 
+ <p align = "center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshatbauskar27&theme=dark&hide_border=true" />
+   </p>
 <!---  ![Visitor Count](https://profile-counter.glitch.me/{akshatbauskar27}/count.svg) --->
 
 
