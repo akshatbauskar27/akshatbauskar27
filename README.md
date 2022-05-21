@@ -13,13 +13,13 @@
   <code><a href="https://www.instagram.com/techworld_security/" title="Instagram Profile"><img height="22" width="22" src="https://github.com/akshatbauskar27/akshatbauskar27/blob/ec5455c7794bfd37126c671a8159a6f5edeba828/instagram.svg"> Instagram</a></code>
   <code><a href="https://www.youtube.com/channel/UCCFlaXRcwuL-_zU9E90lOig"><img alt="YouTube" title="YouTube" height="22" width="22" src="https://github.com/akshatbauskar27/akshatbauskar27/blob/ec5455c7794bfd37126c671a8159a6f5edeba828/youtube.svg"> YouTube</a></code>
 </h5>
-## 🔥 Streak Stats
+
+### 🔥 Streak Stats
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatbauskar27&theme=algolia" alt="Akshat" /></p>
 
-<br>
-<br>
 
-## 📊 Github Stats
+### 📊 Github Stats
 
 
 
