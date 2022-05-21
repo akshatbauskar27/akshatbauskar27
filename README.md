@@ -8,10 +8,10 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/akshat-bauskar-990356163/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://twitter.com/AkshatBauskar" title="Twitter Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/twitter.svg"> Twitter</a></code>
-  <code><a href="https://www.instagram.com/techworld_security/" title="Instagram Profile"><img height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/instagram.svg"> Instagram</a></code>
-  <code><a href="https://www.youtube.com/channel/UCCFlaXRcwuL-_zU9E90lOig"><img alt="YouTube" title="YouTube" height="22" width="22" src="https://github.com/Dheerajmadhukar/Dheerajmadhukar/blob/main/img/youtube.svg"> YouTube</a></code>
+    <a href="https://www.linkedin.com/in/akshat-bauskar-990356163/" title="LinkedIn Profile"><img height="22" width="22" src="https://github.com/akshatbauskar27/akshatbauskar27/blob/ec5455c7794bfd37126c671a8159a6f5edeba828/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://twitter.com/AkshatBauskar" title="Twitter Profile"><img height="22" width="22" src="https://github.com/akshatbauskar27/akshatbauskar27/blob/ec5455c7794bfd37126c671a8159a6f5edeba828/twitter.svg"> Twitter</a></code>
+  <code><a href="https://www.instagram.com/techworld_security/" title="Instagram Profile"><img height="22" width="22" src="https://github.com/akshatbauskar27/akshatbauskar27/blob/ec5455c7794bfd37126c671a8159a6f5edeba828/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.youtube.com/channel/UCCFlaXRcwuL-_zU9E90lOig"><img alt="YouTube" title="YouTube" height="22" width="22" src="https://github.com/akshatbauskar27/akshatbauskar27/blob/ec5455c7794bfd37126c671a8159a6f5edeba828/youtube.svg"> YouTube</a></code>
 </h5>
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=akshatbauskar27&theme=algolia" alt="Akshat" /></p>
