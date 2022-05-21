@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Cyber security enthusiast </h3>
 
 
-- 👀 I’m interested in cyber security, bash scripting and python automation.
+- 👀 I’m interested in Cyber security, Bash scripting and Python automation.
 - 🌱 I’m currently working on HTB.
 - 📫 How to reach me ...
 
